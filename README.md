@@ -67,24 +67,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/idongju">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idongju&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idongju&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/idongju">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=idongju&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/idongju">
-    <img src="https://github-profile-trophy.vercel.app/?username=idongju&theme=nord&column=8&no-frame=true&margin-w=15&margin-h=15" />
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongju2-lee&show_icons=true&theme=radical)
 
 <div align="center">
   
