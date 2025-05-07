@@ -1,4 +1,4 @@
-# 안녕하세요 👋 백엔드 개발자 동주입니다
+# 안녕하세요 👋 데브옵스 엔지니어 동주입니다
 
 <div align="center">
   
@@ -6,14 +6,13 @@
   
   <h3>🚀 Welcome to my GitHub!</h3>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidongju&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ## 🧑‍💻 About Me
 - 마이크로서비스 아키텍처와 클라우드 네이티브 애플리케이션에 관심이 많은 백엔드 개발자입니다
 - 사용자에게 가치를 전달하는 서비스를 만들기 위해 항상 고민하고 배움을 게을리하지 않습니다
+- 최근에는 AI Agent관련 업무를 하고 있으며 LLM으로 다양한 툴을 만들고 있습니다.
 - 복잡한 문제를 단순하게 해결하는 것을 좋아합니다
-- 깨끗하고 유지보수 가능한 코드를 작성하기 위해 노력합니다
 
 ## 🛠️ Skills
 
@@ -78,35 +77,6 @@
   
 </div>
 
-## 🏆 Projects
-
-### 마이크로서비스 음식 배달 앱
-![Stars](https://img.shields.io/github/stars/idongju/food-delivery-app?style=social)
-
-- 마이크로서비스 아키텍처 기반의 음식 배달 시스템
-- **기술 스택**: Spring Boot, FastAPI, Docker, Kubernetes, PostgreSQL, Redis
-- **핵심 기능**: 
-  - 사용자 인증/인가, 레스토랑 관리, 주문 관리
-  - OpenTelemetry를 활용한 분산 추적
-  - Prometheus, Grafana, Loki를 이용한 모니터링
-
-### AI 기반 채팅 애플리케이션 
-![Stars](https://img.shields.io/github/stars/idongju/ai-chat-app?style=social)
-
-- 대규모 언어 모델(LLM)을 활용한 지능형 챗봇
-- **기술 스택**: Python, FastAPI, React, Redis, AWS Lambda
-- **핵심 기능**:
-  - LLM 기반 대화 생성
-  - 멀티 모달 입력 처리 (텍스트, 이미지)
-  - 실시간 WebSocket 통신
-
-## 📫 Contact Me
-
-<p>
-  <a href="mailto:idongju@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/idongju"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/idongju"><img src="https://img.shields.io/badge/Tech_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-</p>
 
 <div align="center">
   
