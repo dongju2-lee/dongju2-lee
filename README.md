@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DongJu%20Kim&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=50)
   
   <h3>🚀 Welcome to my GitHub!</h3>
   
@@ -65,9 +65,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongju2-lee&show_icons=true&theme=radical)
 
 <div align="center">
   
